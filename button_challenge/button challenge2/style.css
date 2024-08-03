@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.div__btn{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 25%;
+}
+
+.btn{
+    width: 130px;
+    height: 35px;
+    border: 1px yellow solid;
+    border-radius: 5px;
+    box-shadow: 0 0 20px rgb(255, 255, 0);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: black;
+}
+
+

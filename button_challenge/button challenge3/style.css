@@ -1,0 +1,31 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.btn-wrapper{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    margin: 25%;
+}
+
+.btn{
+    width: 220px;
+    height: 40px;
+    border: none;
+    border-radius: 25px;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(9, 75, 150);
+}
+
+
